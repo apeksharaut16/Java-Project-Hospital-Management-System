@@ -47,12 +47,12 @@ Run the main Java file.
 
 📸 Screenshots :
 
-![Main Output Tab Screenshot ](images/Main Output Tab.png)
-![View Doctor Tab Screenshot ](images/View Doctor Tab.png)
-![Add Patient Tab Screenshot ](images/Add Patient Tab.png)
-![View Patient Tab Screenshot ](images/View Patient Tab.png)
-![Book Appointment Tab Screenshot ](images/Book Appointment Tab.png)
-![Exit Tab Screenshot ](images/Exit Tab.png)
+![Main Output Tab Screenshot ](images/MainOutputTab.png)
+![View Doctor Tab Screenshot ](images/ViewDoctorTab.png)
+![Add Patient Tab Screenshot ](images/AddPatientTab.png)
+![View Patient Tab Screenshot ](images/ViewPatientTab.png)
+![Book Appointment Tab Screenshot ](images/BookAppointmentTab.png)
+![Exit Tab Screenshot ](images/ExitTab.png)
 
 
 
